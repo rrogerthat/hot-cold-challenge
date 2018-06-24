@@ -1,0 +1,11 @@
+input {
+	text-align: center;		/* centers placeholder */
+	width: 200px;
+	margin-bottom: 10px;
+}
+
+.newGame {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}

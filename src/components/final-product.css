@@ -1,0 +1,6 @@
+.eachGuess {
+	border: 1px solid black;
+	padding: 2px;
+	margin: 10px 2px;
+	display: inline-block;
+}
